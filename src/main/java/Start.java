@@ -3,7 +3,7 @@
 
 public class Start {
     public static void main(String[] args) {
-
+        action =
         double a = args[0];
         double b = args[1];
 
