@@ -1,3 +1,6 @@
+
+//К сожалению не успел закончить вовремя но добавил в список чтобы проверить свою логику
+
 public class Start {
     public static void main(String[] args) {
 
